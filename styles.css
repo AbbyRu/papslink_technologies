@@ -42,8 +42,8 @@ body{
 .header-image-container {
             position: relative;
             width: auto;
-            max-width: 600px;
-            margin: auto;
+            max-width: 100%;
+            margin: ;
   }
 
   .text-overlay {
