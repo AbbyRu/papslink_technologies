@@ -41,13 +41,13 @@ body{
 
   .header-image-container {
             position: relative;
-            width: 100%;
+            width: auto;
             max-width: 600px;
             margin: auto;
   }
 
         .header-image-container img {
-            width: 100%;
+            width: auto;
             height: auto;
             display: block;
  }
