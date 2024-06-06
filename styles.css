@@ -103,8 +103,42 @@ body{
     justify-content: space-evenly;
     margin-left: 50px;
 }
-.our-story{
-  display:flex;
+.our-story {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: center;
+            margin: 20px 0;
+}
+.header-our-story {
+            flex: 1;
+            padding: 20px;
+            font-family: 'Arial', sans-serif;
+}
+.header-our-story p {
+            font-size: 1.1em;
+            line-height: 1.6;
+            color: #333;
+}
+.CEO-image {
+            flex: 1;
+            text-align: center;
+            padding: 20px;
+}
+ .CEO-image img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+}
+ .CEO-image h5 {
+            margin-top: 10px;
+            font-size: 1.2em;
+            color: #555;
+}
+  @media (max-width: 768px) {
+            .our-story {
+                flex-direction: column;
+            }
 }
 .instagram-posts img {
     width: 160px;
