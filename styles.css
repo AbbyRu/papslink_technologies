@@ -46,13 +46,6 @@ body{
             margin: auto;
   }
 
-.header-image-container img {
-            width: 100%;
-            height: auto;
-            max-width:100%;
-            display: block;
- }
-
   .text-overlay {
             position: absolute;
             bottom: 0;
