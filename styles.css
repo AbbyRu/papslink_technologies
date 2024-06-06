@@ -45,7 +45,7 @@ body{
 }
 .text-overlay{
     position: absolute;
-    bottom: -89%;
+    bottom: -79%;
     left: 50%;
     transform: translate(-50%, -50%);
     color: rgba(255, 255, 255, 1);
@@ -134,7 +134,7 @@ body{
     
 }
 .footer-image img{
-    width: 400px;
+    width: auto;
     height: 300px;       
 }
 .footer {
