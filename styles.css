@@ -64,7 +64,7 @@ body{
             background: rgba(0, 0, 0, 0.7); /* Semi-transparent black background for better readability */
             padding: 15px;
             text-align: center;
-            width:200px ; /* Full width of the image */
+            width:30% ; /* Full width of the image */
             box-sizing: border-box; /* Ensure padding is included in the width */
             font-family: 'Arial', sans-serif; /* Choose a modern font */
  }
