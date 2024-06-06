@@ -190,6 +190,8 @@ h5{
 h2, h3 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #0a0909;
+            text-align: center;
+            
 }
 h1{
     font-size: 40px;
