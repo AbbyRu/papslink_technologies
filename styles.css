@@ -134,7 +134,6 @@ body{
     
 }
 .footer-image img{
-    width: auto;
     height: 300px;       
 }
 .footer {
@@ -212,4 +211,7 @@ ul {
 }
 h3{
   text-align: center;
+}
+.newarrivals{
+      text-align: center;
 }
