@@ -45,7 +45,7 @@ body{
 }
 .text-overlay{
     position: absolute;
-    bottom: -79%;
+    bottom: -74%;
     left: 50%;
     transform: translate(-50%, -50%);
     color: rgba(255, 255, 255, 1);
@@ -133,9 +133,6 @@ body{
     color:red;
     
 }
-.footer-image img{
-    height: 300px;       
-}
 .footer {
     position: sticky;
     width: 100%;
@@ -212,6 +209,6 @@ ul {
 h3{
   text-align: center;
 }
-.newarrivals{
+.newarrivals h2{
       text-align: center;
 }
